@@ -11,5 +11,6 @@ public class q2 {
         }else{
             System.out.println("The number is ODD");
         }
+        sc.close();
     }
 }

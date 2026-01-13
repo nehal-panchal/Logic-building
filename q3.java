@@ -13,5 +13,6 @@ public class q3 {
         }else{
             System.out.println("The number is not divisible by 5");
         }
+        sc.close();
     }
 }

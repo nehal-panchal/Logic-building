@@ -11,6 +11,7 @@ public class q5 {
         }else{
             System.out.println("The year is not a Leap Year");
         }
+        sc.close();
     }
 }
 

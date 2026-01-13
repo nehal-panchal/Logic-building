@@ -18,5 +18,6 @@ public class q7 {
         }else if((third > first)&& (third>second)){
             System.out.print("Third number is greater");
         }
+        sc.close();
     }
 }

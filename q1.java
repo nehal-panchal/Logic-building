@@ -15,5 +15,6 @@ public class q1{
         }else{
             System.out.println("The number is Zero");
         }
+        sc.close();
     }
 }

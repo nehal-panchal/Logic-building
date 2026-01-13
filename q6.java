@@ -14,6 +14,7 @@ public class q6 {
         }else{
             System.out.println("First number is greater");
         }
+        sc.close();
 
     }
 }

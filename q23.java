@@ -11,13 +11,12 @@ public class q23 {
 
         int first = num / 1000;
         int last = num % 10;
-
+        
         if (first == last) {
             System.out.println("First and last digits are equal");
         } else {
             System.out.println("First and last digits are not equal");
         }
-
         sc.close();
     }
 }

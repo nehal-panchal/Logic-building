@@ -64,3 +64,76 @@
 48. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
 49. Take two dates (day and month) and determine which one comes first in the calendar.
 50. Take a year and print the corresponding century (e.g., “19th century”, “20th century”).
+
+# Phase 2 — Looping & Patterns (Iteration & Flow)
+
+# Level 1: Basic Looping (Introductory)
+
+51. Print numbers from 1 to 10.  
+52. Print all even numbers between 1 and 100.  
+53. Print all odd numbers between 1 and 100.  
+54. Print numbers from 10 down to 1.  
+55. Print the table of a given number (n × 1 to n × 10).  
+56. Print the sum of first n natural numbers.  
+57. Print the sum of all even numbers up to n.  
+58. Print the sum of all odd numbers up to n.  
+59. Print the factorial of a given number.  
+60. Print the product of digits of a given number.  
+
+
+# Level 2: Number-based Looping Logic
+
+61. Count the number of digits in a given number.  
+62. Print the reverse of a given number.  
+63. Check if a number is a palindrome.  
+64. Find the sum of digits of a number.  
+65. Check if a number is an Armstrong number.  
+66. Check if a number is a perfect number.  
+67. Print all prime numbers between 1 and 100.  
+68. Check if a number is prime or not.  
+69. Print Fibonacci series up to n terms.  
+70. Print the sum of first n terms of the Fibonacci series.  
+
+
+# Level 3: Mathematical & Logical Patterns
+
+71. Print the squares of numbers from 1 to n.  
+72. Print cubes of numbers from 1 to n.  
+73. Print all numbers between a and b divisible by 7.  
+74. Find HCF (GCD) of two numbers using loops.  
+75. Find LCM of two numbers using loops.  
+76. Print all factors of a given number.  
+77. Find the sum of all factors of a number.  
+78. Check if a number is a strong number  
+    (sum of factorials of digits = number).  
+79. Print first n terms of an arithmetic progression (a, d).  
+80. Print first n terms of a geometric progression (a, r).  
+
+
+# Level 4: Pattern Printing (Stars & Numbers)
+
+81. Print a right-angled triangle star pattern.  
+82. Print an inverted right-angled triangle star pattern.  
+83. Print a pyramid star pattern.  
+84. Print an inverted pyramid star pattern.  
+85. Print Floyd’s triangle.  
+86. Print a number triangle pattern.  
+87. Print a square star pattern.  
+88. Print a hollow square star pattern.  
+89. Print a diamond star pattern.  
+90. Print a mirrored right-angled triangle pattern.  
+
+
+# Level 5: Logical Loop Combinations
+
+91. Print all numbers whose sum of digits is even (1–100).  
+92. Count how many numbers between 1–500 are divisible by 7 but not by 5.  
+93. Print all numbers that are palindromes between 1–500.  
+94. Print numbers between 1–100 whose digits add up to a multiple of 3.  
+95. Find the smallest and largest digit in a given number.  
+96. Print all numbers from 1–n whose binary representation has an even number of 1s.  
+97. Print a pattern where each row prints i * i.  
+98. Print factorial of each number from 1 to n.  
+99. Print the sum of all odd digits and even digits separately in a number.  
+100. Take 5 numbers as input. If the user enters 0, skip it using `continue`.  
+     At the end, print the sum of all non-zero numbers entered.

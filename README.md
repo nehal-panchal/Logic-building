@@ -88,7 +88,6 @@
 63. Check if a number is a palindrome.  
 64. Find the sum of digits of a number.  
 65. Check if a number is an Armstrong number.  
-66. Check if a number is a perfect number.  
 67. Print all prime numbers between 1 and 100.  
 68. Check if a number is prime or not.  
 69. Print Fibonacci series up to n terms.  
